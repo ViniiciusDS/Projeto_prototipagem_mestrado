@@ -1,0 +1,25 @@
+Change Component Designator: OldDesignator=*3 NewDesignator=H4
+Change Component Designator: OldDesignator=C2 NewDesignator=C3
+Change Component Designator: OldDesignator=C3 NewDesignator=C4
+Change Component Designator: OldDesignator=C4 NewDesignator=C2
+Change Component Designator: OldDesignator=U4 NewDesignator=U6
+Change Component Designator: OldDesignator=U5 NewDesignator=U4
+Change Component Designator: OldDesignator=U6 NewDesignator=U5
+Add Pin To Net: Unknown Pin: Pin D1-+
+Add Pin To Net: Unknown Pin: Pin D1--
+Add Pin To Net: Unknown Pin: Pin D2-+
+Add Pin To Net: Unknown Pin: Pin D2--
+Add Pin To Net: Unknown Pin: Pin D3-+
+Add Pin To Net: Unknown Pin: Pin D3--
+Add Pin To Net: Unknown Pin: Pin Q1-B
+Add Pin To Net: Unknown Pin: Pin Q1-C
+Add Pin To Net: Unknown Pin: Pin Q1-E
+Add Pin To Net: Unknown Pin: Pin Q2-B
+Add Pin To Net: Unknown Pin: Pin Q2-C
+Add Pin To Net: Unknown Pin: Pin Q3-B
+Change Net Name : Old Net Name=Net*3_2 New Net Name=NetH3_1
+Change Net Name : Old Net Name=NetC2_1 New Net Name=NetC3_1
+Change Net Name : Old Net Name=NetC2_2 New Net Name=NetC3_2
+Change Net Name : Old Net Name=NetC3_1 New Net Name=NetC4_1
+Change Net Name : Old Net Name=NetC3_2 New Net Name=NetC4_2
+Change Net Name : Old Net Name=NetC4_1 New Net Name=NetC2_1

@@ -1,0 +1,16 @@
+Add Pin To Net: Unknown Pin: Pin D1-+
+Add Pin To Net: Unknown Pin: Pin D1--
+Add Pin To Net: Unknown Pin: Pin D2-+
+Add Pin To Net: Unknown Pin: Pin D2--
+Add Pin To Net: Unknown Pin: Pin D3-+
+Add Pin To Net: Unknown Pin: Pin D3--
+Add Pin To Net: Unknown Pin: Pin Q1-B
+Add Pin To Net: Unknown Pin: Pin Q1-C
+Add Pin To Net: Unknown Pin: Pin Q1-E
+Add Pin To Net: Unknown Pin: Pin Q2-B
+Add Pin To Net: Unknown Pin: Pin Q2-C
+Add Pin To Net: Unknown Pin: Pin Q3-B
+Added Pin To Net: NetName=+BAT Pin=R17-1
+Added Member To Class: ClassName=Sheet1 Member=Component C3 1uF
+Added Member To Class: ClassName=Sheet1 Member=Component C4 1uF
+Added Member To Class: ClassName=Sheet1 Member=Component U6 MC78M05BDTG
