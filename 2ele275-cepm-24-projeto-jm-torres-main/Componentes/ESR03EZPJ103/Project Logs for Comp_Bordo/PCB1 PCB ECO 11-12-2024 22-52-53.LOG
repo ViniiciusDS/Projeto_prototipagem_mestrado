@@ -1,0 +1,21 @@
+Added Pin To Net: NetName=VREF+ Pin=C9-1
+Added Pin To Net: NetName=VREF+ Pin=C10-1
+Added Pin To Net: NetName=LED_STATUS Pin=D1-2
+Added Pin To Net: NetName=VREF+ Pin=D2-2
+Add Pin To Net: Unknown Pin: Pin D3-+
+Add Pin To Net: Unknown Pin: Pin D3--
+Add Pin To Net: Unknown Pin: Pin Q1-B
+Add Pin To Net: Unknown Pin: Pin Q1-C
+Add Pin To Net: Unknown Pin: Pin Q1-E
+Add Pin To Net: Unknown Pin: Pin Q2-B
+Add Pin To Net: Unknown Pin: Pin Q2-C
+Add Pin To Net: Unknown Pin: Pin Q3-B
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=R2-2
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_1 Pin=R17-2
+Added Net: Name=NetD2_1
+Added Member To Class: ClassName=Sheet1 Member=Component C3 1uF
+Added Member To Class: ClassName=Sheet1 Member=Component C4 1uF
+Added Member To Class: ClassName=Sheet1 Member=Component U6 MC78M05BDTG
