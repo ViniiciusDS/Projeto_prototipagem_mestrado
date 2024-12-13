@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=VREF- Pin=U5-1
+Added Pin To Net: NetName=VREF- Pin=U5-3
+Change Net Name : Old Net Name=VREF+ New Net Name=+5
+Change Net Name : Old Net Name=VREF- New Net Name=GND

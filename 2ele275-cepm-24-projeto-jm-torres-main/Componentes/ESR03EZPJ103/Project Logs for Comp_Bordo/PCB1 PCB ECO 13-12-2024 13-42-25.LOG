@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=VREF+ Pin=U4-2
+Removed Pin From Net: NetName=VREF- Pin=U4-3
+Removed Pin From Net: NetName=NetR8_1 Pin=U4-4
+Change Component Footprint: Designator=U4 Old Footprint=MPXA4115AC6U New Footprint=MPXH6115A6U
+Added Pin To Net: NetName=VREF+ Pin=U4-6
+Added Pin To Net: NetName=VREF- Pin=U4-7
+Added Pin To Net: NetName=NetR8_1 Pin=U4-8
