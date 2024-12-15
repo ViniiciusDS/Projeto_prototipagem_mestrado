@@ -1,0 +1,7 @@
+Change Component Comment : Designator=U6 Old Comment= New Comment=MC78M05BDTG
+Change Net Name : Old Net Name=+5 New Net Name=VCC
+Added Member To Class: ClassName=Sheet1 Member=Component U1 MMA3201KEGR2
+Added Member To Class: ClassName=Sheet1 Member=Component U6 MC78M05BDTG
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
+Added Rule: Name=Schematic Supply Nets_2
