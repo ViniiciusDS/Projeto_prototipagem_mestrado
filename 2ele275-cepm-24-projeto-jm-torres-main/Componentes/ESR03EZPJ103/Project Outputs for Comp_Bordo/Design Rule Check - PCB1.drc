@@ -1,32 +1,25 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\jose_\Desktop\Projeto_prototipagem_mestrado\2ele275-cepm-24-projeto-jm-torres-main\Componentes\ESR03EZPJ103\PCB1.PcbDoc
 Date     : 16/12/2024
-Time     : 02:09:02
+Time     : 20:26:43
 
 Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
-   Violation between Clearance Constraint: (9.396mil < 10mil) Between Pad R1-2(5349.409mil,3996.062mil) on Top Layer And Via (5384.516mil,3977.006mil) from Top Layer to Bottom Layer 
-   Violation between Clearance Constraint: (9.998mil < 10mil) Between Pad R12-2(5224.408mil,3972.443mil) on Bottom Layer And Track (5157.815mil,4009.095mil)(5267.935mil,4009.095mil) on Bottom Layer 
-   Violation between Clearance Constraint: (Collision < 10mil) Between Track (5467.204mil,3956.692mil)(5566.93mil,3956.692mil) on Top Layer And Track (5528mil,3890mil)(5528mil,3980mil) on Top Layer 
-Rule Violations :3
+Rule Violations :0
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
-   Violation between Short-Circuit Constraint: Between Track (5467.204mil,3956.692mil)(5566.93mil,3956.692mil) on Top Layer And Track (5528mil,3890mil)(5528mil,3980mil) on Top Layer Location : [X = 5528mil][Y = 3956.692mil]
-Rule Violations :1
+Rule Violations :0
 
 Processing Rule : Un-Routed Net Constraint ( (All) )
-   Violation between Un-Routed Net Constraint: Net GND Between Track (4215mil,3907.046mil)(4228.346mil,3893.7mil) on Top Layer And Pad U3-4(4553.346mil,3880.905mil) on Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net VCC Between Track (4104.196mil,3620.63mil)(4106.3mil,3620.63mil) on Bottom Layer And Pad R21-2(4137.795mil,3555.118mil) on Bottom Layer 
    Violation between Un-Routed Net Constraint: Net GND Between Pad U3-4(4553.346mil,3880.905mil) on Bottom Layer And Track (4753.346mil,3880.904mil)(4753.346mil,3908mil) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net GND Between Track (3975.066mil,3944mil)(4140.85mil,3944mil) on Bottom Layer And Track (3976.27mil,3937.118mil)(3999.388mil,3914mil) on Top Layer 
    Violation between Un-Routed Net Constraint: Net VCC Between Track (4005.434mil,3698.686mil)(4005.434mil,3713.214mil) on Top Layer And Track (4104.196mil,3620.63mil)(4106.3mil,3620.63mil) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net VCC Between Track (4104.196mil,3620.63mil)(4106.3mil,3620.63mil) on Bottom Layer And Track (4126.969mil,3480.315mil)(4137.796mil,3491.142mil) on Bottom Layer 
    Violation between Un-Routed Net Constraint: Net GND Between Track (4116mil,3782.078mil)(4133.358mil,3782.078mil) on Bottom Layer And Track (4145.669mil,3625.984mil)(4150.512mil,3621.142mil) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net GND Between Track (4145.669mil,3625.984mil)(4150.512mil,3621.142mil) on Bottom Layer And Track (4173.642mil,3612.756mil)(4173.947mil,3612.756mil) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net GND Between Track (4173.642mil,3612.756mil)(4173.947mil,3612.756mil) on Bottom Layer And Track (4179.102mil,3635.238mil)(4249.238mil,3635.238mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net GND Between Track (4302.166mil,3574.804mil)(4349.362mil,3622mil) on Bottom Layer And Track (4322.834mil,3650mil)(4367mil,3650mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net GND Between Track (4653.544mil,3992.126mil)(4658.386mil,3987.284mil) on Bottom Layer And Track (4694.882mil,4000mil)(4758mil,4000mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net GND Between Track (4753.346mil,3880.904mil)(4753.346mil,3908mil) on Bottom Layer And Track (4758.268mil,3814.96mil)(4758.268mil,3931.992mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Track (4145.669mil,3625.984mil)(4150.512mil,3621.142mil) on Bottom Layer And Track (4179.102mil,3635.238mil)(4249.238mil,3635.238mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Track (4302.166mil,3574.804mil)(4349.362mil,3622mil) on Bottom Layer And Track (4329.016mil,3476.378mil)(4329.016mil,3499mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Track (4653.544mil,3992.126mil)(4658.386mil,3987.284mil) on Bottom Layer And Track (4694.882mil,4000mil)(4791.34mil,4000mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Track (4753.346mil,3880.904mil)(4753.346mil,3908mil) on Bottom Layer And Track (4791.339mil,3877.953mil)(4795.275mil,3877.953mil) on Top Layer 
    Violation between Un-Routed Net Constraint: Net VCC Between Track (5582.678mil,3665.354mil)(5582.678mil,3748.032mil) on Top Layer And Track (5755.906mil,3511.812mil)(5755.906mil,3577.758mil) on Top Layer 
-Rule Violations :12
+Rule Violations :9
 
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
@@ -51,7 +44,8 @@ Processing Rule : Minimum Solder Mask Sliver (Gap=10mil) (All),(All)
    Violation between Minimum Solder Mask Sliver Constraint: (2.483mil < 10mil) Between Pad C13-1(4653.543mil,3992.126mil) on Bottom Layer And Via (4631.496mil,3958.429mil) from Top Layer to Bottom Layer [Bottom Solder] Mask Sliver [2.483mil]
    Violation between Minimum Solder Mask Sliver Constraint: (1.158mil < 10mil) Between Pad C13-2(4614.173mil,3992.126mil) on Bottom Layer And Via (4631.496mil,3958.429mil) from Top Layer to Bottom Layer [Bottom Solder] Mask Sliver [1.158mil]
    Violation between Minimum Solder Mask Sliver Constraint: (3.869mil < 10mil) Between Pad C20-1(4011.81mil,3909.45mil) on Top Layer And Via (3964.567mil,3940.945mil) from Top Layer to VCC [Top Solder] Mask Sliver [3.869mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (8.182mil < 10mil) Between Pad C20-2(4011.81mil,3984.253mil) on Top Layer And Via (4066.614mil,3986.22mil) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [8.182mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (2mil < 10mil) Between Pad C20-2(4011.81mil,3984.253mil) on Top Layer And Via (4060.432mil,3986.22mil) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [2mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (3.182mil < 10mil) Between Pad C22-1(4110.236mil,3986.22mil) on Top Layer And Via (4060.432mil,3986.22mil) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [3.182mil]
    Violation between Minimum Solder Mask Sliver Constraint: (6.716mil < 10mil) Between Pad C3-1(3724.409mil,3622.046mil) on Bottom Layer And Pad H4-1(3652.606mil,3610.236mil) on Multi-Layer [Bottom Solder] Mask Sliver [6.716mil]
    Violation between Minimum Solder Mask Sliver Constraint: (6.716mil < 10mil) Between Pad C3-2(3724.409mil,3572.834mil) on Bottom Layer And Pad H4-1(3652.606mil,3610.236mil) on Multi-Layer [Bottom Solder] Mask Sliver [6.716mil]
    Violation between Minimum Solder Mask Sliver Constraint: (6.929mil < 10mil) Between Pad C6-1(4134.358mil,3879.339mil) on Bottom Layer And Via (4129.921mil,3834.646mil) from Top Layer to Bottom Layer [Bottom Solder] Mask Sliver [6.929mil]
@@ -60,15 +54,15 @@ Processing Rule : Minimum Solder Mask Sliver (Gap=10mil) (All),(All)
    Violation between Minimum Solder Mask Sliver Constraint: (6.544mil < 10mil) Between Pad Free-1(5677.166mil,3740.158mil) on Multi-Layer And Pad R20-1(5755.905mil,3642.716mil) on Top Layer [Top Solder] Mask Sliver [6.544mil]
    Violation between Minimum Solder Mask Sliver Constraint: (2.69mil < 10mil) Between Pad Free-1(5677.166mil,3740.158mil) on Multi-Layer And Via (5632mil,3646mil) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [2.69mil] / [Bottom Solder] Mask Sliver [2.69mil]
    Violation between Minimum Solder Mask Sliver Constraint: (3.54mil < 10mil) Between Pad Q1-1(5425.197mil,3917.323mil) on Top Layer And Via (5464.532mil,3926mil) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [3.54mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (3.93mil < 10mil) Between Pad Q1-3(5464.567mil,3996.063mil) on Top Layer And Via (5467.204mil,3957.322mil) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [3.93mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (7.865mil < 10mil) Between Pad Q1-2(5500mil,3917.323mil) on Top Layer And Via (5483.426mil,3959.999mil) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [7.865mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.358mil < 10mil) Between Pad Q1-3(5464.567mil,3996.063mil) on Top Layer And Via (5483.426mil,3959.999mil) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [1.358mil]
    Violation between Minimum Solder Mask Sliver Constraint: (4.732mil < 10mil) Between Pad Q3-2(5661.417mil,3911.418mil) on Top Layer And Via (5614mil,3934mil) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [4.732mil]
    Violation between Minimum Solder Mask Sliver Constraint: (5.492mil < 10mil) Between Pad Q3-2(5661.417mil,3911.418mil) on Top Layer And Via (5626.438mil,3866mil) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [5.492mil]
    Violation between Minimum Solder Mask Sliver Constraint: (4.753mil < 10mil) Between Pad R10-2(4403.874mil,3992.126mil) on Bottom Layer And Via (4433.071mil,3956.693mil) from Top Layer to Bottom Layer [Bottom Solder] Mask Sliver [4.753mil]
    Violation between Minimum Solder Mask Sliver Constraint: (5.544mil < 10mil) Between Pad R11-2(5177.164mil,3800.198mil) on Bottom Layer And Via (5177.165mil,3759.843mil) from Top Layer to Bottom Layer [Bottom Solder] Mask Sliver [5.544mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.567mil < 10mil) Between Pad R1-2(5349.409mil,3996.062mil) on Top Layer And Via (5384.516mil,3977.006mil) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [0.567mil]
    Violation between Minimum Solder Mask Sliver Constraint: (2.755mil < 10mil) Between Pad R12-1(5224.408mil,3907.483mil) on Bottom Layer And Via (5177mil,3901mil) from Top Layer to Bottom Layer [Bottom Solder] Mask Sliver [2.755mil]
    Violation between Minimum Solder Mask Sliver Constraint: (9.717mil < 10mil) Between Pad R19-1(4250.001mil,3653.542mil) on Bottom Layer And Pad R19-2(4291.34mil,3653.542mil) on Bottom Layer [Bottom Solder] Mask Sliver [9.717mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (6.528mil < 10mil) Between Pad R21-2(4137.795mil,3491.142mil) on Bottom Layer And Via (4086.614mil,3480.315mil) from VCC to Bottom Layer [Bottom Solder] Mask Sliver [6.528mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (6.528mil < 10mil) Between Pad R21-1(4137.795mil,3490.157mil) on Bottom Layer And Via (4086.614mil,3480.315mil) from VCC to Bottom Layer [Bottom Solder] Mask Sliver [6.528mil]
    Violation between Minimum Solder Mask Sliver Constraint: (3.931mil < 10mil) Between Pad R4-1(5582.676mil,3665.356mil) on Top Layer And Via (5586.93mil,3626.614mil) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [3.931mil]
    Violation between Minimum Solder Mask Sliver Constraint: (2.002mil < 10mil) Between Pad R6-1(4051.181mil,3810.039mil) on Bottom Layer And Via (4038.02mil,3763.384mil) from Top Layer to Bottom Layer [Bottom Solder] Mask Sliver [2.002mil]
    Violation between Minimum Solder Mask Sliver Constraint: (9.717mil < 10mil) Between Pad R7-1(5720.473mil,3854.332mil) on Top Layer And Pad R7-2(5761.811mil,3854.332mil) on Top Layer [Top Solder] Mask Sliver [9.717mil]
@@ -98,7 +92,7 @@ Processing Rule : Minimum Solder Mask Sliver (Gap=10mil) (All),(All)
    Violation between Minimum Solder Mask Sliver Constraint: (2.63mil < 10mil) Between Pad U2-6(3801.181mil,3605.315mil) on Bottom Layer And Pad U2-7(3801.181mil,3630.905mil) on Bottom Layer [Bottom Solder] Mask Sliver [2.63mil]
    Violation between Minimum Solder Mask Sliver Constraint: (2.63mil < 10mil) Between Pad U2-7(3801.181mil,3630.905mil) on Bottom Layer And Pad U2-8(3801.181mil,3656.496mil) on Bottom Layer [Bottom Solder] Mask Sliver [2.63mil]
    Violation between Minimum Solder Mask Sliver Constraint: (4.448mil < 10mil) Between Pad U3-1(4403.346mil,3880.905mil) on Bottom Layer And Via (4386.22mil,3944.882mil) from Top Layer to Bottom Layer [Bottom Solder] Mask Sliver [4.448mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (7.255mil < 10mil) Between Pad U3-10(4853.346mil,3880.905mil) on Bottom Layer And Via (4823mil,3939mil) from Top Layer to Bottom Layer [Bottom Solder] Mask Sliver [7.255mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (5.683mil < 10mil) Between Pad U3-10(4853.346mil,3880.905mil) on Bottom Layer And Via (4825.275mil,3939mil) from Top Layer to Bottom Layer [Bottom Solder] Mask Sliver [5.683mil]
    Violation between Minimum Solder Mask Sliver Constraint: (9.692mil < 10mil) Between Pad U3-19(4853.346mil,3504.921mil) on Bottom Layer And Via (4874.016mil,3573mil) from Top Layer to Bottom Layer [Bottom Solder] Mask Sliver [9.692mil]
    Violation between Minimum Solder Mask Sliver Constraint: (5.383mil < 10mil) Between Pad U3-2(4453.346mil,3880.905mil) on Bottom Layer And Via (4436mil,3816mil) from Top Layer to Bottom Layer [Bottom Solder] Mask Sliver [5.383mil]
    Violation between Minimum Solder Mask Sliver Constraint: (9.279mil < 10mil) Between Pad U3-3(4503.346mil,3880.905mil) on Bottom Layer And Via (4483.266mil,3948.819mil) from Top Layer to Bottom Layer [Bottom Solder] Mask Sliver [9.279mil]
@@ -107,8 +101,10 @@ Processing Rule : Minimum Solder Mask Sliver (Gap=10mil) (All),(All)
    Violation between Minimum Solder Mask Sliver Constraint: (5.429mil < 10mil) Between Pad U3-4(4553.346mil,3880.905mil) on Bottom Layer And Via (4567.629mil,3814.675mil) from VCC to Bottom Layer [Bottom Solder] Mask Sliver [5.429mil]
    Violation between Minimum Solder Mask Sliver Constraint: (1.998mil < 10mil) Between Pad U3-4(4553.346mil,3880.905mil) on Bottom Layer And Via (4571.848mil,3941.42mil) from Top Layer to Bottom Layer [Bottom Solder] Mask Sliver [1.998mil]
    Violation between Minimum Solder Mask Sliver Constraint: (9.792mil < 10mil) Between Pad U3-5(4603.346mil,3880.905mil) on Bottom Layer And Via (4571.848mil,3941.42mil) from Top Layer to Bottom Layer [Bottom Solder] Mask Sliver [9.792mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.518mil < 10mil) Between Pad U3-9(4803.346mil,3880.905mil) on Bottom Layer And Via (4823mil,3939mil) from Top Layer to Bottom Layer [Bottom Solder] Mask Sliver [0.518mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.798mil < 10mil) Between Pad U3-9(4803.346mil,3880.905mil) on Bottom Layer And Via (4825.275mil,3939mil) from Top Layer to Bottom Layer [Bottom Solder] Mask Sliver [1.798mil]
    Violation between Minimum Solder Mask Sliver Constraint: (8.423mil < 10mil) Between Pad U5-2(5314.962mil,3883.071mil) on Bottom Layer And Via (5365mil,3918mil) from Top Layer to Bottom Layer [Bottom Solder] Mask Sliver [8.423mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (3.247mil < 10mil) Between Pad U5-5(5537.403mil,3983.071mil) on Bottom Layer And Via (5483.426mil,3959.999mil) from Top Layer to Bottom Layer [Bottom Solder] Mask Sliver [3.247mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (5.574mil < 10mil) Between Pad U5-6(5537.403mil,3933.071mil) on Bottom Layer And Via (5483.426mil,3959.999mil) from Top Layer to Bottom Layer [Bottom Solder] Mask Sliver [5.574mil]
    Violation between Minimum Solder Mask Sliver Constraint: (2.59mil < 10mil) Between Pad U6-3(5180.99mil,3675.196mil) on Bottom Layer And Via (5137.795mil,3618.11mil) from VCC to Bottom Layer [Bottom Solder] Mask Sliver [2.59mil]
    Violation between Minimum Solder Mask Sliver Constraint: (8.781mil < 10mil) Between Pad U6-4(5448.819mil,3586.613mil) on Bottom Layer And Via (5298.928mil,3581.538mil) from Top Layer to Bottom Layer [Bottom Solder] Mask Sliver [8.781mil]
    Violation between Minimum Solder Mask Sliver Constraint: (0.95mil < 10mil) Between Pad X1-1(4255.906mil,3807.087mil) on Bottom Layer And Via (4199.576mil,3744.425mil) from Top Layer to Bottom Layer [Bottom Solder] Mask Sliver [0.95mil]
@@ -116,8 +112,9 @@ Processing Rule : Minimum Solder Mask Sliver (Gap=10mil) (All),(All)
    Violation between Minimum Solder Mask Sliver Constraint: (6.518mil < 10mil) Between Via (4386.024mil,3734.078mil) from Top Layer to Bottom Layer And Via (4430mil,3741mil) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [6.518mil] / [Bottom Solder] Mask Sliver [6.518mil]
    Violation between Minimum Solder Mask Sliver Constraint: (8.652mil < 10mil) Between Via (4483.266mil,3948.819mil) from Top Layer to Bottom Layer And Via (4528.346mil,3936.809mil) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [8.652mil] / [Bottom Solder] Mask Sliver [8.652mil]
    Violation between Minimum Solder Mask Sliver Constraint: (5.746mil < 10mil) Between Via (4528.346mil,3936.809mil) from Top Layer to Bottom Layer And Via (4571.848mil,3941.42mil) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [5.746mil] / [Bottom Solder] Mask Sliver [5.746mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.896mil < 10mil) Between Via (5464.532mil,3926mil) from Top Layer to Bottom Layer And Via (5483.426mil,3959.999mil) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [0.896mil] / [Bottom Solder] Mask Sliver [0.896mil]
    Violation between Minimum Solder Mask Sliver Constraint: (1.614mil < 10mil) Between Via (5586.93mil,3626.614mil) from Top Layer to Bottom Layer And Via (5587mil,3587mil) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [1.614mil] / [Bottom Solder] Mask Sliver [1.614mil]
-Rule Violations :69
+Rule Violations :73
 
 Processing Rule : Silk To Solder Mask (Clearance=10mil) (IsPad),(All)
    Violation between Silk To Solder Mask Clearance Constraint: (8.811mil < 10mil) Between Arc (5425.197mil,3945.866mil) on Top Overlay And Pad Q1-1(5425.197mil,3917.323mil) on Top Layer [Top Overlay] to [Top Solder] clearance [8.811mil]
@@ -165,18 +162,14 @@ Processing Rule : Silk to Silk (Clearance=10mil) (All),(All)
 Rule Violations :0
 
 Processing Rule : Net Antennae (Tolerance=0mil) (All)
-   Violation between Net Antennae: Track (3975.066mil,3944mil)(4140.85mil,3944mil) on Bottom Layer 
    Violation between Net Antennae: Track (4005.434mil,3698.686mil)(4005.434mil,3713.214mil) on Top Layer 
-   Violation between Net Antennae: Track (4173.642mil,3612.756mil)(4173.947mil,3612.756mil) on Bottom Layer 
-   Violation between Net Antennae: Track (4173.642mil,3612.756mil)(4173.947mil,3612.756mil) on Bottom Layer 
-   Violation between Net Antennae: Track (4758.268mil,3814.96mil)(4758.268mil,3931.992mil) on Top Layer 
    Violation between Net Antennae: Via (4448.819mil,3622mil) from VCC to Bottom Layer 
-Rule Violations :6
+Rule Violations :2
 
 Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
 Rule Violations :0
 
 
-Violations Detected : 131
+Violations Detected : 124
 Waived Violations : 0
-Time Elapsed        : 00:00:01
+Time Elapsed        : 00:00:02
