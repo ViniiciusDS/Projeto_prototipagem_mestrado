@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: [No Variations].GBR   17/12/2024  00:40:21
+Gerber File Extension Report For: [No Variations].GBR   18/12/2024  15:38:51
 ------------------------------------------------------------------------------------------
 
 
@@ -10,9 +10,8 @@ Layer Extension     Layer Description
 .GTP                Top Paste                               
 .GTS                Top Solder                              
 .GTL                Top Layer                               
-.GBL                Bottom Layer                            
 .GBS                Bottom Solder                           
 .GBP                Bottom Paste                            
 .GBO                Bottom Overlay                          
-.GM2                Board Outline                           
+.GM13               Board Outline                           
 ------------------------------------------------------------------------------------------

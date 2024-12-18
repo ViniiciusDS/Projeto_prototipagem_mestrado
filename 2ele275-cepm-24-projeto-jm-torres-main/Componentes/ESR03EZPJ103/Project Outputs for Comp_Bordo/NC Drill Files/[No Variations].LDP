@@ -1,6 +1,4 @@
 Layer Pairs Export File for PCB: C:\Users\jose_\Desktop\Projeto_prototipagem_mestrado\2ele275-cepm-24-projeto-jm-torres-main\Componentes\ESR03EZPJ103\PCB1.PcbDoc
 LayersSetName=Top_Bot_Thru_Holes|DrillFile=[no variations].txt|DrillLayers=gtl,gp1,gp2,gbl
-LayersSetName=Top_GND_Blind_Vias|DrillFile=[no variations].tx1|DrillLayers=gtl,gp1
-LayersSetName=Top_VCC_Blind_Vias|DrillFile=[no variations].tx2|DrillLayers=gtl,gp1,gp2
-LayersSetName=GND_Bot_Blind_Vias|DrillFile=[no variations].tx3|DrillLayers=gp1,gp2,gbl
-LayersSetName=VCC_Bot_Blind_Vias|DrillFile=[no variations].tx4|DrillLayers=gp2,gbl
+LayersSetName=Top_VCC_Blind_Vias|DrillFile=[no variations].tx1|DrillLayers=gtl,gp1,gp2
+LayersSetName=VCC_Bot_Blind_Vias|DrillFile=[no variations].tx2|DrillLayers=gp2,gbl

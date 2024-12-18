@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: PCB1.PcbDoc   17/12/2024  00:40:28
+NCDrill File Report For: PCB1.PcbDoc   18/12/2024  15:42:09
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -7,47 +7,30 @@ ASCII RoundHoles File : [No Variations].TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      0.508mm (20mil)                                           Round             59        PTH        194.78mm (7.67inch)
+T1      0.3mm (12mil)                                             Round             73        PTH        221.08mm (8.70inch)
+T2      0.5mm (20mil)                                             Round             1         PTH        0.00mm (0.00inch)
 T3      1.1mm (43mil)                                             Round             18        PTH        111.56mm (4.39inch)
-T4      2.5mm (98mil)                                             Round             2         PTH        48.87mm (1.92inch)
+T4      2.5mm (98mil)                                             Round             2         PTH        49.37mm (1.94inch)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              79
-Layer Pair : Top Layer to GND
+Totals                                                                              94
+Layer Pair : Top Layer to VCC
 ASCII RoundHoles File : [No Variations].TX1
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      0.508mm (20mil)                                           Round             1         PTH        0.00mm (0.00inch)
-T2      0.711mm (28mil)                                           Round             2         PTH        23.43mm (0.92inch)
+T2      0.5mm (20mil)                                             Round             5         PTH        37.50mm (1.48inch)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              3
-Layer Pair : Top Layer to VCC
+Totals                                                                              5
+Layer Pair : VCC to Bottom Layer
 ASCII RoundHoles File : [No Variations].TX2
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      0.508mm (20mil)                                           Round             1         PTH        0.00mm (0.00inch)
-T2      0.711mm (28mil)                                           Round             1         PTH        0.00mm (0.00inch)
-----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              2
-Layer Pair : GND to Bottom Layer
-ASCII RoundHoles File : [No Variations].TX3
-
-Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
-----------------------------------------------------------------------------------------------------------------------------------
-T1      0.508mm (20mil)                                           Round             2         PTH        22.14mm (0.87inch)
-----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              2
-Layer Pair : VCC to Bottom Layer
-ASCII RoundHoles File : [No Variations].TX4
-
-Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
-----------------------------------------------------------------------------------------------------------------------------------
-T1      0.508mm (20mil)                                           Round             5         PTH        46.27mm (1.82inch)
-T2      0.711mm (28mil)                                           Round             1         PTH        0.00mm (0.00inch)
+T1      0.3mm (12mil)                                             Round             1         PTH        0.00mm (0.00inch)
+T2      0.5mm (20mil)                                             Round             5         PTH        37.50mm (1.48inch)
 ----------------------------------------------------------------------------------------------------------------------------------
 Totals                                                                              6
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              92
+Totals                                                                              105
 
 Total Processing Time (hh:mm:ss) : 00:00:00
