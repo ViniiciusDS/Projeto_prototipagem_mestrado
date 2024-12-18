@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\viniv\OneDrive\Desktop\engenhariaeletrica\Mestrado_Prototipagem\Projeto_prototipagem_mestrado\2ele275-cepm-24-projeto-jm-torres-main\Componentes\ESR03EZPJ103\PCB1.PcbDoc
 Date     : 18/12/2024
-Time     : 10:34:43
+Time     : 11:48:13
 
 Processing Rule : Clearance Constraint (Gap=0.21mm) (All),(All)
 Rule Violations :0
@@ -30,24 +30,10 @@ Rule Violations :0
 Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
 Rule Violations :0
 
-Processing Rule : Minimum Solder Mask Sliver (Gap=0.21mm) (All;),(All)
-   Violation between Minimum Solder Mask Sliver Constraint: (0.106mm < 0.21mm) Between Pad U2-1(96.55mm,88.325mm) on Bottom Layer And Pad U2-2(96.55mm,88.975mm) on Bottom Layer [Bottom Solder] Mask Sliver [0.106mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.106mm < 0.21mm) Between Pad U2-10(102.45mm,92.225mm) on Bottom Layer And Pad U2-11(102.45mm,91.575mm) on Bottom Layer [Bottom Solder] Mask Sliver [0.106mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.106mm < 0.21mm) Between Pad U2-10(102.45mm,92.225mm) on Bottom Layer And Pad U2-9(102.45mm,92.875mm) on Bottom Layer [Bottom Solder] Mask Sliver [0.106mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.106mm < 0.21mm) Between Pad U2-11(102.45mm,91.575mm) on Bottom Layer And Pad U2-12(102.45mm,90.925mm) on Bottom Layer [Bottom Solder] Mask Sliver [0.106mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.106mm < 0.21mm) Between Pad U2-12(102.45mm,90.925mm) on Bottom Layer And Pad U2-13(102.45mm,90.275mm) on Bottom Layer [Bottom Solder] Mask Sliver [0.106mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.106mm < 0.21mm) Between Pad U2-13(102.45mm,90.275mm) on Bottom Layer And Pad U2-14(102.45mm,89.625mm) on Bottom Layer [Bottom Solder] Mask Sliver [0.106mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.106mm < 0.21mm) Between Pad U2-14(102.45mm,89.625mm) on Bottom Layer And Pad U2-15(102.45mm,88.975mm) on Bottom Layer [Bottom Solder] Mask Sliver [0.106mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.106mm < 0.21mm) Between Pad U2-15(102.45mm,88.975mm) on Bottom Layer And Pad U2-16(102.45mm,88.325mm) on Bottom Layer [Bottom Solder] Mask Sliver [0.106mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.106mm < 0.21mm) Between Pad U2-2(96.55mm,88.975mm) on Bottom Layer And Pad U2-3(96.55mm,89.625mm) on Bottom Layer [Bottom Solder] Mask Sliver [0.106mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.106mm < 0.21mm) Between Pad U2-3(96.55mm,89.625mm) on Bottom Layer And Pad U2-4(96.55mm,90.275mm) on Bottom Layer [Bottom Solder] Mask Sliver [0.106mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.106mm < 0.21mm) Between Pad U2-4(96.55mm,90.275mm) on Bottom Layer And Pad U2-5(96.55mm,90.925mm) on Bottom Layer [Bottom Solder] Mask Sliver [0.106mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.106mm < 0.21mm) Between Pad U2-5(96.55mm,90.925mm) on Bottom Layer And Pad U2-6(96.55mm,91.575mm) on Bottom Layer [Bottom Solder] Mask Sliver [0.106mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.106mm < 0.21mm) Between Pad U2-6(96.55mm,91.575mm) on Bottom Layer And Pad U2-7(96.55mm,92.225mm) on Bottom Layer [Bottom Solder] Mask Sliver [0.106mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.106mm < 0.21mm) Between Pad U2-7(96.55mm,92.225mm) on Bottom Layer And Pad U2-8(96.55mm,92.875mm) on Bottom Layer [Bottom Solder] Mask Sliver [0.106mm]
-Rule Violations :14
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.01mm) (Component = 'U2'),(InPadClass('All Pads'))
+Rule Violations :0
 
-Processing Rule : Minimum Solder Mask Sliver (Gap=0.01mm) (U2),(InPadClass('All Pads'))
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.21mm) (All;),(All)
 Rule Violations :0
 
 Processing Rule : Silk To Solder Mask (Clearance=0.254mm) (IsPad),(All)
@@ -114,6 +100,9 @@ Processing Rule : Silk To Solder Mask (Clearance=0.254mm) (IsPad),(All)
    Violation between Silk To Solder Mask Clearance Constraint: (0.238mm < 0.254mm) Between Pad U2-7(96.55mm,92.225mm) on Bottom Layer And Track (95.662mm,90.205mm)(95.662mm,92.7mm) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0.238mm]
 Rule Violations :61
 
+Processing Rule : Silk To Solder Mask (Clearance=0.254mm) (IsPad),(All)
+Rule Violations :0
+
 Processing Rule : Silk to Silk (Clearance=0.203mm) (All),(All)
 Rule Violations :0
 
@@ -124,6 +113,6 @@ Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (Al
 Rule Violations :0
 
 
-Violations Detected : 75
+Violations Detected : 61
 Waived Violations : 0
 Time Elapsed        : 00:00:01
