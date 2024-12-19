@@ -33,7 +33,7 @@ FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=0
 IsVirtualBomDocumentRemoved=0
-OutputPath=
+OutputPath=Project Outputs for Comp_Bordo
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -168,14 +168,78 @@ GenerateClassCluster=0
 DocumentUniqueId=HWPPXOIN
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for Comp_Bordo\Export STEP\[No Variations].step
+DocumentPath=Project Outputs for Comp_Bordo\NC Drill Files\[No Variations].DRR
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for Free Documents\Export STEP\[No Variations].step
+DocumentPath=Project Outputs for Comp_Bordo\Gerber Files\[No Variations].EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument3]
+DocumentPath=Project Outputs for Comp_Bordo\Gerber Files\[No Variations].GBO
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for Comp_Bordo\Gerber Files\[No Variations].GBP
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for Comp_Bordo\Gerber Files\[No Variations].GBS
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for Comp_Bordo\Gerber Files\[No Variations].GM13
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for Comp_Bordo\Gerber Files\[No Variations].GTL
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for Comp_Bordo\Gerber Files\[No Variations].GTO
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for Comp_Bordo\Gerber Files\[No Variations].GTP
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for Comp_Bordo\Gerber Files\[No Variations].GTS
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for Comp_Bordo\NC Drill Files\[No Variations].LDP
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for Comp_Bordo\Gerber Files\[No Variations].REP
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for Comp_Bordo\Gerber Files\[No Variations].RUL
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for Comp_Bordo\Export STEP\[No Variations].step
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for Free Documents\Export STEP\[No Variations].step
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for Comp_Bordo\Generates pick and place files\[No Variations].txt
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for Comp_Bordo\NC Drill Files\[No Variations].TXT
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for Comp_Bordo\Bill of Materials\[No Variations].xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument19]
 DocumentPath=Project Outputs for Comp_Bordo\Design Rule Check - PCB1.html
 DItemRevisionGUID=
 
@@ -190,7 +254,7 @@ ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for Comp_Bordo
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -741,6 +805,36 @@ OutputName11=Specctra Design PCB
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
+OutputType12=Ansoft Neutral
+OutputName12=Ansoft Neutral (AutoPCB)
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+OutputType13=HyperLynx
+OutputName13=HyperLynx (AutoPCB)
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+OutputType14=Orcad v7 Capture Design
+OutputName14=Orcad v7 Capture Design (AutoSCH)
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+OutputType15=P-CAD ASCII
+OutputName15=P-CAD ASCII (AutoPCB)
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+OutputType16=P-CAD V16 Schematic Design
+OutputName16=P-CAD V16 Schematic Design (AutoSCH)
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+OutputType17=SiSoft
+OutputName17=SiSoft (AutoPCB)
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
